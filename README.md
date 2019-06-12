@@ -1,2 +1,3 @@
 # Hello-World
-Just a sample one
+Hi everyone,
+  Iam Ranjani,Iam new to Github.I will explore a lot here.
